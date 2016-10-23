@@ -1,6 +1,7 @@
 //*******************************************************************
 // NOTE: please read the 'More Info' tab to the right for shortcuts.
 //*******************************************************************
+package com.does.not.exist;
 
 import java.lang.Math; // headers MUST be above the first class
 
